@@ -1,0 +1,24 @@
+{
+  "name": "hw15_front_end_isaac_lee",
+  "version": "1.0.0",
+  "description": "Homework 15 for UT Coding Boot Camp",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.2",
+    "moment": "^2.18.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14",
+    "socket.io-client": "^2.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:3001",
+  "author": "Isaac J. Lee",
+  "license": "ISC"
+}
